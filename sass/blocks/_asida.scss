@@ -1,0 +1,65 @@
+.smal {
+  width: 1200px;
+  height: 214px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background-color: #f6f6f9;
+  margin: 0 auto;
+  display: flex;
+  margin-bottom: 150px;
+}
+
+.asida__images {
+  width: 236px;
+  height: 177px;
+  flex-shrink: 0;
+  margin-left: 19px;
+  margin-top: 37px;
+}
+
+.smal__text--head {
+  width: 526px;
+  height: 30px;
+  flex-shrink: 0;
+  color: #295093;
+  font-family: Rubik;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 64px;
+}
+
+.smal__text--text {
+  width: 515px;
+  height: 44px;
+  flex-shrink: 0;
+  color: #333;
+  font-family: Rubik;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.smal__mlay--parket {
+  width: 162.712px;
+  height: 50px;
+  flex-shrink: 0;
+  background-image: url("/images/googleplay1.png");
+  border-radius: 5px;
+  border: none;
+  margin-top: 82px;
+  margin-left: 50px;
+}
+
+.smal__apple {
+  width: 162.712px;
+  height: 50px;
+  flex-shrink: 0;
+  background-image: url("/images/appstore1.png");
+  border-radius: 5px;
+  border: none;
+  margin-top: 82px;
+  margin-left: 20px;
+}

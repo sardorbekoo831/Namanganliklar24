@@ -1,0 +1,126 @@
+.footer {
+  width: 1440px;
+  height: 225px;
+  flex-shrink: 0;
+  background-color: #295093;
+}
+
+.footer__top {
+  display: flex;
+}
+
+.footer__top--logo {
+  margin-top: 18px;
+  margin-left: 120px;
+  width: 194px;
+  height: 38px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background-color: #133c82;
+  border: none;
+}
+
+.footer__top--logo a {
+  width: 173px;
+  height: 21px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Rubik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.footer__top--head {
+  width: 659px;
+  height: 19px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Rubik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 198px;
+  margin-top: 25px;
+}
+
+.btn {
+  width: 132px;
+  height: 38px;
+  flex-shrink: 0;
+  margin-top: 13px;
+  margin-left: 17px;
+}
+
+.footer__button--link {
+  color: #295093;
+  font-family: Rubik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.footer__box {
+  width: 1200px;
+  height: 3px;
+  flex-shrink: 0;
+  background-color: #133c82;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.footer__main {
+  display: flex;
+}
+
+.footer__main--head {
+  color: #fff;
+  font-family: Rubik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 120px;
+}
+
+.footer__main--text {
+  color: #fff;
+  font-family: Rubik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 365px;
+  height: 121px;
+  flex-shrink: 0;
+  margin-left: 120px;
+}
+
+.footer__main--links--link {
+  color: #fff;
+  font-family: Rubik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.footer__main--links--link:hover {
+  color: #fff;
+  font-family: Rubik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.footer__main--links {
+  margin-left: 100px;
+}
+
+.footer__button--link {
+  display: flex;
+}
